@@ -2,12 +2,12 @@
 Api for task management.
 
 ## Functional requirements
-* [ ] Create an user with a name and a username
-* [ ] Create a new todo
-* [ ] List all todos
-* [ ] Update the title and deadline of an existing todo
-* [ ] Mark a todo as done
-* [ ] Delete a todo
+* [x] Create an user with a name and a username
+* [x] Create a new todo
+* [x] List all todos
+* [x] Update the title and deadline of an existing todo
+* [x] Mark a todo as done
+* [x] Delete a todo
 
 
 ## Routes
